@@ -1,4 +1,4 @@
-# Submit code in a codepen at codepen.io
+# Submit code in a codepen at codepen.io or GitHub
 
 ### Tasks
 
